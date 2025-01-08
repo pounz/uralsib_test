@@ -1,0 +1,23 @@
+.postList {
+  padding: 20px;
+
+  overflow-x: hidden;
+}
+
+.postListItems {
+  list-style: none;
+  padding: 0;
+}
+
+.postListItem {
+  margin-bottom: 10px;
+}
+
+.postListLink {
+  text-decoration: none;
+  color: #3498db;
+}
+
+.postListLink:hover {
+  text-decoration: underline;
+}
